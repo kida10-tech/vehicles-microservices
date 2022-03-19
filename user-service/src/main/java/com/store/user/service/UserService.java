@@ -7,7 +7,6 @@ import com.store.user.model.Bike;
 import com.store.user.model.Car;
 import com.store.user.repository.UserRespository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
