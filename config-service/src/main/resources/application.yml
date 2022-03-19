@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: config-server
+          default-label: main
           uri: https://github.com/kida10-tech/vehicles-microservices.git
           search-paths: config-data
   application:
