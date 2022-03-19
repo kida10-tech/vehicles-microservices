@@ -7,8 +7,6 @@ spring:
         git:
           uri: https://github.com/kida10-tech/vehicles-microservices.git
           searchPaths: config-data
-          username: ${GIT_USER}
-          password: ${GIT_PASSWORD}
           default-label: "main"
   application:
     name: config-service
