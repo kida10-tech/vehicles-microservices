@@ -10,7 +10,3 @@ spring:
           default-label: "main"
   application:
     name: config-service
-security:
-  user:
-    name: root
-    password: secret
